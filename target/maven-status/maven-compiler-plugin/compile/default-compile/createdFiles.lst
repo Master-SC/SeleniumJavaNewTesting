@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\HomePage.class
+pages\SignInPage.class
+tests\CaseOneTest.class
+tests\BaseTest.class
+utillits\RandomGenerator.class
+utillits\Storage.class
